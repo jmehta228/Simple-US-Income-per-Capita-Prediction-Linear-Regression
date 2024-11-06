@@ -1,0 +1,1 @@
+# Simple-US-Income-per-Capita-Prediction-Linear-Regression
